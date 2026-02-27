@@ -1,1 +1,3 @@
-Week 2 Practice
+Week 2 Practice:
+Guess the Number Game
+Multiplication Table
